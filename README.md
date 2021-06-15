@@ -1,4 +1,10 @@
-#<table>
+#
+## Contributors
+1. Isaac Kirui Parikacha
+2. Bill Kiprono
+## About the Project
+The project is about creating a table about dogs and their decription. The following table shows all things about the project.
+<table style="border: 2px solid">
 <caption>DOG</caption>
 <tr>
 <th>Pet</th>
@@ -30,4 +36,9 @@
 <td>4</td>
 <td>brown</td>
 </tr>
+</table>
+
+## Licence
+copyright @2021 Kiruis and Kipronos Companygit 
+
 
